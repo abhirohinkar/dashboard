@@ -1,7 +1,7 @@
 # dashboard
 Exploratory Data Analysis on Power BI for cookies & co.
 
-extracting & loading source data files in power bi.
+extracting & loading source data files in power bi from 3 dufferent files.
 
 1. data modelling - connecting multiple data sources using cardinality relationships (e.g. one to many). create a calculated column to establish a relationship between the tables and it can also be used to setup a relationship between two tables.
 
