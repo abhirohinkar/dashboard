@@ -1,4 +1,4 @@
-# dashboard
+# Exploratory data analysis.
 Exploratory Data Analysis on Power BI for cookies & co.
 
 extracting & loading source data files in power bi from 3 dufferent files.
